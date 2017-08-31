@@ -1,0 +1,7 @@
+target
+.idea
+logs
+.DS_Store
+.history
+logs
+*/build
